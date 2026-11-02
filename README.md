@@ -2,6 +2,9 @@
 
 Protótipo de plataforma 2D feito em Unity 6 e C#, com foco total em programação de mecânicas.
 
+**Jogue aqui:** https://wevertonpb.itch.io/projeto2
+
+
 ![Gameplay](docs/gameplay.gif)
 
 ## Como jogar
